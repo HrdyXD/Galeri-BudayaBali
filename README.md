@@ -25,11 +25,11 @@ Memupuk rasa cinta terhadap budaya lokal di era modern ini dengan:
    Dapatkan informasi tentang kalender tradisional Bali, termasuk hari raya, upacara adat, dan panduan waktu yang berhubungan dengan tradisi lokal.  
 
 ## 🚀 Cara Akses  
-Kunjungi website kami di: [www.galeribudayabali.com](#)  
+Kunjungi website kami di: [](#)  
 
 ## 🤝 Dukungan  
 Kami selalu terbuka untuk masukan dan ide-ide baru. Jika Anda memiliki saran atau ingin berkolaborasi, hubungi kami di:  
-- **Email**: info@galeribudayabali.com  
+- **Email**:  
 - **Media Sosial**: [Facebook](#) | [Instagram](#)  
 
 ---
