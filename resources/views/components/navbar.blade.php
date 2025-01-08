@@ -4,7 +4,7 @@
             <!-- Logo Section -->
             <a href="/" class="ms-12">
                 <div class="shrink-0 flex items-center">
-                    <img alt="Logo" class="w-8 h-8" src="{{ asset('img/logo.png') }}" width="40" height="40" />
+                    <img alt="Logo" class="w-8 h-8" src="{{ asset('img/Logo.png') }}" width="40" height="40" />
                     <span class="font-bold text-2xl ml-2">GaleriBudayaBali.id</span>
                 </div>
             </a>
