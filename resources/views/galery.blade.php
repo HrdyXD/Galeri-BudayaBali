@@ -33,9 +33,9 @@ $searchQuery = request('search');
 
 // Directory data asset('img/Logo.png') {{ asset('img/Logo.png') }}
 $imageData = [
-    'badung' => getImagesFromDirectory(asset('img/Badung'), $searchQuery),
-    'bangli' => getImagesFromDirectory('img/Bangli', $searchQuery),
-    'buleleng' => getImagesFromDirectory('img/Buleleng', $searchQuery),
+    'badung' => getImagesFromDirectory('./img', $searchQuery),
+    'bangli' => getImagesFromDirectory('img/', $searchQuery),
+    'buleleng' => getImagesFromDirectory('./img/Buleleng', $searchQuery),
     'denpasar' => getImagesFromDirectory('img/Denpasar', $searchQuery),
     'gianyar' => getImagesFromDirectory('img/Gianyar', $searchQuery),
     'karangasem' => getImagesFromDirectory('img/Karangasem', $searchQuery),

@@ -4,7 +4,7 @@
     <div class="flex items-center mb-16">
         <!-- Link to Home/Dashboard -->
         <a href="{{ route('admin.dashboard') }}" class="flex items-center mt-8">
-            <img alt="Logo" class="mr-4" height="40" src="{{ asset('img/logo.png') }}" width="40" />
+            <img alt="Logo" class="mr-4" height="40" src="{{ asset('img/Logo.png') }}" width="40" />
             <span class="font-bold text-2xl">GaleriBudayaBali.id</span>
         </a>
     </div>

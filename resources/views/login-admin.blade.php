@@ -19,7 +19,7 @@
 <body class="bg-white flex items-center justify-center min-h-screen p-4">
     <div class="w-full max-w-md mx-auto">
         <div class="flex flex-col items-center mb-8 text-center">
-            <img src="{{ asset('img/logo.png') }}" alt="Logo" class="mb-4 max-w-full h-auto w-24" />
+            <img src="{{ asset('img/Logo.png') }}" alt="Logo" class="mb-4 max-w-full h-auto w-24" />
             <h1 class="text-lg font-bold text-gray-800 sm:text-xl">
                 Masuk Sebagai Admin<br />Galeri Budaya Bali
             </h1>
@@ -69,7 +69,7 @@
         </form>
 
         <div class="flex items-center justify-center mt-4">
-            <img src="{{ asset('img/logo.png') }}" alt="Small Logo" class="mr-2 w-5 h-5 max-w-full" />
+            <img src="{{ asset('img/Logo.png') }}" alt="Small Logo" class="mr-2 w-5 h-5 max-w-full" />
             <p class="text-gray-500 text-sm">GaleriBudayaBali.id</p>
         </div>
     </div>
