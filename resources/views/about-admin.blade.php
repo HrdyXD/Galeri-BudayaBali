@@ -77,8 +77,8 @@
             id: 1,
             cover: 'img/Bali2.png',
             tentangKami: 'Galeri Budaya Bali adalah sebuah platform yang didedikasikan untuk memperkenalkan, melestarikan, dan menyebarkan kekayaan budaya Pulau Dewata. Kami percaya bahwa warisan budaya yang kaya harus dijaga, dihormati, dan diteruskan kepada generasi mendatang. Melalui situs ini, kami menghubungkan masyarakat dengan tradisi, seni, dan nilai-nilai luhur Bali. Visi kami adalah menjadi jembatan bagi siapa saja yang ingin mengenal Bali lebih dalam, sekaligus misi kami adalah memupuk rasa cinta terhadap budaya lokal di era modern ini.',
-            nomorWa: '+6287758058885',
-            igUsername: '4rrka'
+            nomorWa: '+62',
+            igUsername: 'hrdyxd_'
         };
 
         // Function to display the cover image and information
