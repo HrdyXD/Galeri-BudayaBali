@@ -31,9 +31,9 @@ function getImagesFromDirectory($directory, $search = '')
 // Fetch search query if exists
 $searchQuery = request('search');
 
-// Directory data
+// Directory data asset('img/Logo.png') {{ asset('img/Logo.png') }}
 $imageData = [
-    'badung' => getImagesFromDirectory('img/Badung', $searchQuery),
+    'badung' => getImagesFromDirectory(asset('img/Badung'), $searchQuery),
     'bangli' => getImagesFromDirectory('img/Bangli', $searchQuery),
     'buleleng' => getImagesFromDirectory('img/Buleleng', $searchQuery),
     'denpasar' => getImagesFromDirectory('img/Denpasar', $searchQuery),
