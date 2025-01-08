@@ -33,14 +33,14 @@ $searchQuery = request('search');
 
 // Directory data asset('img/Logo.png') {{ asset('img/Logo.png') }}
 $imageData = [
-    'badung' => getImagesFromDirectory('img/Badung', $searchQuery),
-    'bangli' => getImagesFromDirectory('img/Bangli', $searchQuery),
-    'buleleng' => getImagesFromDirectory('img/Buleleng', $searchQuery),
-    'denpasar' => getImagesFromDirectory('img/Denpasar', $searchQuery),
-    'gianyar' => getImagesFromDirectory('img/Gianyar', $searchQuery),
-    'karangasem' => getImagesFromDirectory('img/Karangasem', $searchQuery),
-    'klungkung' => getImagesFromDirectory('img/Klungkung', $searchQuery),
-    'tabanan' => getImagesFromDirectory('img/Tabanan', $searchQuery),
+    'badung' => getImagesFromDirectory('./img/Badung/', $searchQuery),
+    'bangli' => getImagesFromDirectory('./img/Bangli/', $searchQuery),
+    'buleleng' => getImagesFromDirectory('./img/Buleleng/', $searchQuery),
+    'denpasar' => getImagesFromDirectory('./img/Denpasar/', $searchQuery),
+    'gianyar' => getImagesFromDirectory('./img/Gianyar/', $searchQuery),
+    'karangasem' => getImagesFromDirectory('./img/Karangasem/', $searchQuery),
+    'klungkung' => getImagesFromDirectory('./img/Klungkung/', $searchQuery),
+    'tabanan' => getImagesFromDirectory('./img/Tabanan/', $searchQuery),
 ];
 
 // Encode data to JSON for use in JavaScript
